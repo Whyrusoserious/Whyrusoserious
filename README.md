@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Whyrusoserious
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me by discord
+- 🌱 I’m currently learning Python, HTML, CSS, JS
+- 💞️ I’m looking to collaborate on Python, JS, HTML, CSS
+- 📫 How to reach me by discord : asura3107
 - 😄 Pronouns: P H U O N G
 - ⚡ Fun fact: I'm very silly
 
