@@ -5,7 +5,7 @@
 - 📫 How to reach me by discord : asura3107
 - 😄 Pronouns: P H U O N G
 - ⚡ Fun fact: I'm very silly
-- 🚀 judynguyen.co.uk give it a hit
+- 🚀 [visit my website] (https://judynguyen.co.uk/)
 
 <!---
 Whyrusoserious/Whyrusoserious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
